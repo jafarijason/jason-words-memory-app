@@ -1,0 +1,12 @@
+{
+  "name": "jason-words-memory-app",
+  "displayName": "jason-words-memory-app",
+  "expo": {
+    "name": "jason-words-memory-app",
+    "slug": "jason-words-memory-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
